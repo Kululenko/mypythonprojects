@@ -1,0 +1,6 @@
+[submodule "2-python-introduction-math_operators-Kululenko"]
+	path = 2-python-introduction-math_operators-Kululenko
+	url = git@github.com:fbw-p22-e3-assignments/2-python-introduction-math_operators-Kululenko.git
+[submodule "1-python-introduction-hello_world_and_comments-Kululenko"]
+	path = 1-python-introduction-hello_world_and_comments-Kululenko
+	url = git@github.com:fbw-p22-e3-assignments/1-python-introduction-hello_world_and_comments-Kululenko.git
